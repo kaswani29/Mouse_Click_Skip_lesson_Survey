@@ -6,6 +6,6 @@ Pressing next button at same location in a lesson. But it makes you wait 30 secs
 
 
 ## Run
-python mouse_click.py
+`python mouse_click.py`
 
 It will give directions for all the required stuff one by one.
